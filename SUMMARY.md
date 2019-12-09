@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Coding Standards](README.md)
+* [Welcome](README.md)
 * [Getting Started](getting-started.md)
+* [Coding Standards](coding-standards.md)
 
