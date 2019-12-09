@@ -1,3 +1,2 @@
-# DA Coding Standards
+# Initial page
 
-Is this going to change?
